@@ -2,6 +2,7 @@
 
 <template>
   <main>
+    <h2 class="mb-4">Welcome to app</h2>
     <div class="mb-3">
       <label for="exampleFormControlInput1" class="form-label"
         >Email address</label
