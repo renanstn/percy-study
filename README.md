@@ -2,7 +2,7 @@
 
 ## Steps
 
-* Create account
+* Create account at https://percy.io/
 * Create a project
 * Integrate following: https://www.browserstack.com/docs/percy/integrate/cypress
 * Export token
@@ -12,3 +12,4 @@
 * App must be running!
 * Cypress must be running!
 * Fix app default port on cypress.config.js file
+* Always give names to your snapshots!
