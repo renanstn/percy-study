@@ -6,3 +6,12 @@ describe("My First Test", () => {
     cy.contains("h2", "Welcome to app");
   });
 });
+
+describe('Integration test with visual testing', function() {
+  it('Loads the homepage', function() {
+    // Load the page or perform any other interactions with the app.
+    cy.visit("/");
+    // Take a snapshot for visual diffing
+    cy.percySnapshot();
+  });
+});
