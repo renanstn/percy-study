@@ -1,5 +1,7 @@
 # percy-study
 
+[![.github/workflows/percy-integration.yml](https://github.com/renanstn/percy-study/actions/workflows/percy-integration.yml/badge.svg)](https://github.com/renanstn/percy-study/actions/workflows/percy-integration.yml)
+
 ## Steps
 
 - Create account at https://percy.io/
